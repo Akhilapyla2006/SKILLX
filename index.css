@@ -1,0 +1,43 @@
+.example{
+    position: absolute;
+    left: 82%;
+    top: 36%;
+    border: 2px solid  rgb(1, 1, 35);
+    font-size:medium;
+}
+.ex{
+    position: absolute;
+    left: 88%;
+    top: 36%;
+    border: 2px solid  rgb(1, 1, 35);
+    font-size:medium;
+}
+b{
+    color:black;
+    font-size:20px;
+}
+body{
+    background-image: url("https://images.pexels.com/photos/876467/pexels-photo-876467.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    font-family:'Arial', sans-serif;
+}
+h1{
+    margin-top: 35%;
+    height: 100vh;
+    display: flex;
+    color: black;
+    font-size: 300px;
+    letter-spacing: 5px;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    font-family:'Arial', sans-serif;
+}
