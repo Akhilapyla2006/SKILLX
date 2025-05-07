@@ -2,15 +2,15 @@
     position: absolute;
     left: 82%;
     top: 36%;
-    border: 2px solid  rgb(1, 1, 35);
-    font-size:medium;
+    font-size: 25px;
+    color: rgb(0, 0, 7) ;
 }
 #ex{
     position: absolute;
     left: 88%;
     top: 36%;
-    border: 2px solid  rgb(1, 1, 35);
-    font-size:medium;
+     font-size: 25px;
+    color: rgb(0, 0, 7) ;
 }
 b{
     color:black;
