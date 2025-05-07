@@ -1,36 +1,39 @@
 #example{
     position: absolute;
     left: 82%;
-    top: 36%;
+    top: 24%;
     font-size: 25px;
     color: rgb(0, 0, 7) ;
+    background-color:white;
+    border: 1px solid black;
+    border-radius: 20%;
 }
 #ex{
     position: absolute;
     left: 88%;
-    top: 36%;
+    top: 24%;
      font-size: 25px;
     color: rgb(0, 0, 7) ;
+    background-color:white;
+    border: 1px solid black;
+    border-radius: 20%;
 }
 b{
     color:black;
     font-size:20px;
 }
 body{
-    background-image: url("https://images.pexels.com/photos/876467/pexels-photo-876467.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-image: url("https://th.bing.com/th/id/OIP.zyb8yMkoDmOJ8UtVsxNyzQAAAA?rs=1&pid=ImgDetMain");
     background-size: cover;
     display: flex;
     justify-content: center;
-    align-items: center;
-    margin: 0;
     font-family:'Arial', sans-serif;
 }
 h1{
-    margin-top: 35%;
-    height: 100vh;
+    margin-top: 24%;
     display: flex;
-    color: black;
-    font-size: 300px;
+    color: #ffffff;
+    font-size: 250px;
     letter-spacing: 5px;
 }
 
