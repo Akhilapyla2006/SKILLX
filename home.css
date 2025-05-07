@@ -57,7 +57,7 @@ background-color: white;
     border-radius: 7%;
     border: 3px solid white;
 }
-.container2,.container3,.container4,.container5,.container6{
+.container2,.container3,.container4,.container5{
     margin-top: 2%;
     margin-left: 9%;
     margin-right: 9%;
@@ -66,7 +66,7 @@ background-color: white;
     border-radius: 7%;
     border: 3px solid white;
 }
-.container7{
+.container6{
     text-align: center;
     border: 2px solid white;
     color: white;
