@@ -1,11 +1,11 @@
-.example{
+#example{
     position: absolute;
     left: 82%;
     top: 36%;
     border: 2px solid  rgb(1, 1, 35);
     font-size:medium;
 }
-.ex{
+#ex{
     position: absolute;
     left: 88%;
     top: 36%;
